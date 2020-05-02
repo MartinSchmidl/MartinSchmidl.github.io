@@ -60,7 +60,7 @@ div.ingredients ul {
 div.ingredients li {
     font-family: sans-serif;
     font-size: 1em;
-    margin: 0.5em 1em 0.5em 5em;
+    margin: 0.5em 1em 0.5em 1em;
 }
 
 div.directions {
